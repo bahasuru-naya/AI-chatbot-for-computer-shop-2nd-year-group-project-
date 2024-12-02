@@ -24,7 +24,7 @@ def create_sql_connection():
 
 
 client = Groq(
-    api_key="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",
+    api_key="",
 )
 
 
